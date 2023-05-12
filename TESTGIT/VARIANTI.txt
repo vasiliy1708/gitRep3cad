@@ -1,0 +1,2 @@
+[{"CODVAR":"COLORE","CODOPZ":"000","DES":"Ошибка","MEMO":"0","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"COLORE","CODOPZ":"001","DES":"Белый","MEMO":"1","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"COLORE","CODOPZ":"002","DES":"Сталь","MEMO":"2","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"COLORE","CODOPZ":"003","DES":"Стекло","MEMO":"3","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""}]
+
