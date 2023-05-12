@@ -1,16 +1,2 @@
-[{"CaT":"#","COD":"Colori","DES":"colori","MEMO":"000,Errore,255,0,128,207,1\u0010001,Белый,255,255,255,255,1,,,,,,#foto\\BIANCO.drg1,1000,999,0,0,-1,,,,,,,,,,,,,\u0010002,Сталь,192,192,192,203,1,,,,,,#foto\\BIANCO.drg1,1000,999,100,0,-1,,,,,,,,,,,,,\u0010003,Стекло,172,191,213,246,1,,,2.8,,,#FOTO\\BIANCO.drg1,1000,999,0,0,-1,,,,,,,,,,,,,"},{"CaT":"PRO","COD":">>KARKAS","DES":"KARKAS","MEMO":"
-
-\/\/ Side
-001\tL=16  \/\/ panel
-001\tSL=!$L\tL=16  \/\/ panel
-
-\/\/ Bottom
-001\tSL=16\tL=$L-32\tA=16  \/\/ panel
-
-\/\/ Top
-001\tSL=16\tL=$L-32\tA=16\tsa=!$A
-
-#IF $A>=700
-001\tSL=16\tL=$L-32\tA=16\tsa=!$A\/2
-#ENDIF"},{"CaT":"PRO","COD":"tipologie","DES":"Tipologie","MEMO":"001,panel,x,0,0,0,0,$l,$a,$p,$(colore:3)|$(colore:4),$(colore:3)|$(colore:4),,,,,,,,,,LAP\/\/,,,,,,,,,,,,"}]
+[{"CaT":"#","COD":"Colori","DES":"colori","MEMO":"000,Errore,255,0,128,207,1\u0010001,Белый,255,255,255,255,1,,,,,,#foto\\BIANCO.drg1,1000,999,0,0,-1,,,,,,,,,,,,,\u0010002,Сталь,192,192,192,203,1,,,,,,#foto\\BIANCO.drg1,1000,999,100,0,-1,,,,,,,,,,,,,\u0010003,Стекло,172,191,213,246,1,,,2.8,,,#FOTO\\BIANCO.drg1,1000,999,0,0,-1,,,,,,,,,,,,,"},{"CaT":"PRO","COD":">>KARKAS","DES":"panel","MEMO":"001  \/\/ panel"},{"CaT":"PRO","COD":"tipologie","DES":"Tipologie","MEMO":"001,panel,x,0,0,0,0,$l,$a,$p,$(colore:3)|$(colore:4),$(colore:3)|$(colore:4),,,,,,,,,,LAP\/\/,,,,,,,,,,,,"}]
 
