@@ -2,5 +2,7 @@
 
 ","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"N01","DES":"Модель 1","MEMO":"PR001
 
+","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"N02","DES":"Модель 2","MEMO":"PR002
+
 ","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""}]
 
