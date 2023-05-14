@@ -16,5 +16,10 @@
    001\tSL=16\tL=$L-32\tA=16\tsa=150
 #ELSEIF $A>=900
    001\tSL=16\tL=$L-32\tA=16\tsa=300
+#ENDIF
+
+
+#IF $P>=500
+   #MSG ограничение НСТ \/\/ Dev1
 #ENDIF"},{"CaT":"PRO","COD":"tipologie","DES":"Tipologie","MEMO":"001,panel,x,0,0,0,0,$l,$a,$p,$(colore:3)|$(colore:4),$(colore:3)|$(colore:4),,,,,,,,,,LAP\/\/,,,,,,,,,,,,"}]
 
