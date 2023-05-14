@@ -4,7 +4,12 @@
 
 ","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"N02","DES":"Модель 2","MEMO":"PR002
 
+
+","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"N04","DES":"Модель 4","MEMO":"PR004
+Dev2
+
 ","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"N03","DES":"Модель 3","MEMO":"PR003
 Dev1
+
 ","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""}]
 

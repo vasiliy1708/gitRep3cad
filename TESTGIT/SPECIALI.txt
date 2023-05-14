@@ -8,7 +8,7 @@
 
 \/\/ Top
 001\tSL=16\tL=$L-32\tA=16\tsa=!$A
-
+#LET varGlobalAlt=$A-4 \/\/ Dev2
 
 #IF $A>=700
    001\tSL=16\tL=$L-32\tA=16\tsa=!$A\/2
