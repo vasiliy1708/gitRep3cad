@@ -6,5 +6,19 @@
 Цвет
  1140\r001\r\r\u0011
 
+","FLMOD":"0","flNoStampa":0,"CODMET":"","CLASSE":"#M","FLVARGEST":0},{"COD":"model","DES":"Модель","OBBL":false,"TIPO":0,"MEMO":"1
+Код
+ 1800
+Описание
+ 2865
+Код ПР
+ 1425
+парам 1
+ 1200
+парам 2
+ 1200\r\r\r\u0011
+
+
+
 ","FLMOD":"0","flNoStampa":0,"CODMET":"","CLASSE":"#M","FLVARGEST":0}]
 
