@@ -3,8 +3,10 @@
 001\tL=16  \/\/ panel L
 001\tSL=!$L\tL=16  \/\/ panel R
 
+#LETS colorBottom=1
+#IF $[LEN;$(model:6)]>0 #LETS colorBottom=||$(model:6)
 \/\/ Bottom
-001\tSL=16\tL=$L-32\tA=16  \/\/ panel
+001\tSL=16\tL=$L-32\tA=16\tc1=$(colorBottom)  \/\/ panel
 
 \/\/ Top
 001\tSL=16\tL=$L-32\tA=16\tsa=!$A
