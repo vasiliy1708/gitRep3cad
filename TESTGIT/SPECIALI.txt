@@ -23,12 +23,7 @@
 
 #IF $P>=500
    #MSG ограничение НСТ \/\/ Dev1
-#ELSEIF $P>1200
+#ELSEIF $P>1500
    #MSG ограничение сложного НСТ  \/\/dev victor
-#ELSEIF $P>1300
-   #MSG ограничение синего НСТ  \/\/dev MS
-#ENDIF
-
-
-"},{"CaT":"PRO","COD":"tipologie","DES":"Tipologie","MEMO":"001,panel,x,0,0,0,0,$l,$a,$p,$(colore:3)|$(colore:4),$(colore:3)|$(colore:4),,,,,,,,,,LAP\/\/,,,,,,,,,,,,"}]
+#ENDIF"},{"CaT":"PRO","COD":"tipologie","DES":"Tipologie","MEMO":"001,panel,x,0,0,0,0,$l,$a,$p,$(colore:3)|$(colore:4),$(colore:3)|$(colore:4),,,,,,,,,,LAP\/\/,,,,,,,,,,,,"}]
 
