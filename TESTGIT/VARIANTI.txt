@@ -17,4 +17,8 @@ Dev2
 Vk
 
 0;250;0","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""}]
+","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"P01","DES":"Акорд","MEMO":"PR005
+Vs
+
+250;0;0","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""}]
 
