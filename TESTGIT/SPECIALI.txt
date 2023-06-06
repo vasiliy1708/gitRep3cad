@@ -29,6 +29,7 @@
    #MSG ограничение синего НСТ  \/\/dev MS
 #ENDIF
 
-
-"},{"CaT":"PRO","COD":"tipologie","DES":"Tipologie","MEMO":"001,panel,x,0,0,0,0,$l,$a,$p,$(colore:3)|$(colore:4),$(colore:3)|$(colore:4),,,,,,,,,,LAP\/\/,,,,,,,,,,,,"}]
+#IF $(model:1)[P01]
+   \/\/ Dev Vas
+#ENDIF"},{"CaT":"PRO","COD":"tipologie","DES":"Tipologie","MEMO":"001,panel,x,0,0,0,0,$l,$a,$p,$(colore:3)|$(colore:4),$(colore:3)|$(colore:4),,,,,,,,,,LAP\/\/,,,,,,,,,,,,"}]
 
