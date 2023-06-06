@@ -23,7 +23,7 @@
 
 #IF $P>=500
    #MSG ограничение НСТ \/\/ Dev1
-#ELSEIF $P>800
-   #MSG test \/\/dev victor
+#ELSEIF $P>1200
+   #MSG ограничение сложного НСТ  \/\/dev victor
 #ENDIF"},{"CaT":"PRO","COD":"tipologie","DES":"Tipologie","MEMO":"001,panel,x,0,0,0,0,$l,$a,$p,$(colore:3)|$(colore:4),$(colore:3)|$(colore:4),,,,,,,,,,LAP\/\/,,,,,,,,,,,,"}]
 
