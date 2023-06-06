@@ -7,9 +7,9 @@
  1140\r001\r\r\u0011
 
 ","FLMOD":"0","flNoStampa":0,"CODMET":"","CLASSE":"#M","FLVARGEST":0},{"COD":"model","DES":"Модель","OBBL":false,"TIPO":0,"MEMO":"1
-Codice
+Код
  1800
-Descrizione
+Описание
  2865
 Код ПР
  1425
