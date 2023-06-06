@@ -16,5 +16,8 @@ Dev2
 ","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"P01","DES":"Акорд","MEMO":"PR005
 Vs
 
-250;0;0","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""}]
+250;0;0","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"P02","DES":"Минор","MEMO":"PR006
+Vk
+
+0;250;0","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""}]
 
