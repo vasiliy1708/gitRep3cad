@@ -13,16 +13,16 @@ Dev1
 ","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"N04","DES":"Модель 4","MEMO":"PR004
 Dev2
 
-","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"N07","DES":"Модель 7","MEMO":"PR077
-Vasiliy 07.06.2023
-
-","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"N06","DES":"Модель 6","MEMO":"PR066
-Viktor 07.06.2023
-
 ","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"N05","DES":"Модель 5","MEMO":"PR055
 Maxim 07.06.2023
 
-0;0;050","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"P01","DES":"Акорд","MEMO":"PR005
+0;0;050","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"N06","DES":"Модель 6","MEMO":"PR066
+Viktor 07.06.2023
+
+","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"N07","DES":"Модель 7","MEMO":"PR077
+Vasiliy 07.06.2023
+
+","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"P01","DES":"Акорд","MEMO":"PR005
 Vs
 
 250;0;0","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"P02","DES":"Минор","MEMO":"PR006
