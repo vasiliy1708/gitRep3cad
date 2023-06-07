@@ -13,7 +13,10 @@ Dev1
 ","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"N04","DES":"Модель 4","MEMO":"PR004
 Dev2
 
-","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"P01","DES":"Акорд","MEMO":"PR005
+","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"N07","DES":"Модель 7","MEMO":"PR077
+Vasiliy 07.06.2023
+
+0;0;250","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"P01","DES":"Акорд","MEMO":"PR005
 Vs
 
 250;0;0","GES":"","ORDINAMENTO":0,"EXTRA":"","TIPOVAR":""},{"CODVAR":"model","CODOPZ":"P02","DES":"Минор","MEMO":"PR006

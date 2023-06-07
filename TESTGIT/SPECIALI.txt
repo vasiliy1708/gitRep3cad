@@ -29,6 +29,10 @@
    #MSG ограничение синего НСТ  \/\/dev MS
 #ENDIF
 
+#IF 3=3
+   \/\/ Vasiliy 07.06.2023
+#ENDIF
+
 #IF $(model:1)[P01]
    \/\/ Dev Vas
 #ELSEIF $P>2300
