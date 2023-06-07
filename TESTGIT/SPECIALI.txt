@@ -20,23 +20,12 @@
    001\tSL=16\tL=$L-32\tA=16\tsa=300
 #ENDIF
 
-#IF 2=2
-   \/\/ Viktor 07.06.2023
-#ENDIF
-#IF 1=1
-   \/\/ Maxim 07.06.2023
-#ENDIF
-
 #IF $P>=500
    #MSG ограничение НСТ \/\/ Dev1
 #ELSEIF $P>1500
    #MSG ограничение сложного НСТ  \/\/dev victor
 #ELSEIF $P>1300
    #MSG ограничение синего НСТ  \/\/dev MS
-#ENDIF
-
-#IF 3=3
-   \/\/ Vasiliy 07.06.2023
 #ENDIF
 
 #IF $(model:1)[P01]
